@@ -1,0 +1,6 @@
+company_id,profitandloss_years,profitandloss_rows,profitandloss_latest_year,balancesheet_years,balancesheet_rows,balancesheet_latest_year,cashflow_years,cashflow_rows,cashflow_latest_year,latest_bs_balance_pct,latest_source_opm,latest_computed_opm
+ADANIPOWER,12,12,2024,12,12,2024,12,12,2024,0.0,36.0,36.20186292228556
+ASIANPAINT,12,12,2024,12,12,2024,12,12,2024,0.0,21.0,21.3692069305536
+BAJAJHLDNG,12,12,2024,12,12,2024,12,12,2024,0.0,92.0,91.7743830787309
+BHEL,12,12,2024,12,12,2024,12,12,2024,0.0,3.0,2.9757669610346125
+LODHA,12,12,2024,12,12,2024,9,9,2024,0.0,26.0,25.833656455990695
