@@ -16,5 +16,6 @@ yfinance
 matplotlib
 seaborn
 plotly
+streamlit
 jupyter
 ipykernel

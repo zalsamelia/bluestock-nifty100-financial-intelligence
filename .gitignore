@@ -17,6 +17,7 @@ __pycache__/
 *.db
 *.sqlite
 *.sqlite3
+!nifty100.db
 
 # Test / coverage
 .pytest_cache/
