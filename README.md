@@ -28,6 +28,18 @@ Institutional-grade fundamental equity analytics platform and interactive Stream
   - `output/valuation_flags.csv` — Filtered list of Caution/Discount companies.
   - `reports/radar_charts/` — 92 standalone PNG radar charts.
 
+### 3. **NLP Intelligence & Cash Flow Analytics (Sprint 5)**
+- **Analysis Text Parser (`src/nlp/parser.py`)**: Regex-driven parser extracting multi-period CAGR values from qualitative disclosures with automated cross-validation.
+- **Auto Pros & Cons Generator (`src/nlp/pros_cons_generator.py`)**: 24-rule heuristic engine (12 Pros, 12 Cons) evaluating capital efficiency, leverage, cash flow quality, and operating momentum with signal confidence thresholding.
+- **Cash Flow Intelligence (`src/analytics/cashflow_kpis.py`)**: Computes 5-Year CFO Quality Scores, CapEx Intensity tiers, Distress Alerts ($CFO < 0 \land CFF > 0$), and Deleveraging momentum.
+
+---
+
+### 4. **Publication-Grade PDF Reporting Suite (ReportLab)**
+- **Company Tearsheets (`src/reports/tearsheet.py`)**: 92 two-page institutional PDF tearsheets featuring bento KPI tiles, 10-year Revenue & Profit charts, ROE/ROCE return profiles, Balance Sheet composition, Cash Flow waterfall, and qualitative Pros/Cons bullets.
+- **Sector Benchmark Reports (`src/reports/sector_report.py`)**: 11 sector PDF landscape documents with median KPI benchmarks and full constituent performance matrices.
+- **Portfolio Summary (`src/reports/portfolio_summary.py`)**: Alphabetical 92-company executive catalog with directional trend arrows ($\uparrow / \downarrow / \rightarrow$).
+
 ---
 
 ## Quick Start Guide
@@ -63,10 +75,22 @@ python scripts/run_sprint3_pipeline.py
 
 # Run Sprint 4 valuation module
 python src/analytics/valuation.py
+
+# Run Sprint 5 NLP text parser & pros/cons generator
+python src/nlp/parser.py
+python src/nlp/pros_cons_generator.py
+
+# Run Sprint 5 cash flow intelligence engine
+python src/analytics/cashflow_kpis.py
+
+# Generate PDF reports suite
+python src/reports/tearsheet.py
+python src/reports/sector_report.py
+python src/reports/portfolio_summary.py
 ```
 
 ### Running Test Suite
 ```bash
 pytest
 ```
-*Current test suite: **106 passed, 0 failures** across ETL, KPI, Screener, Peer, and Valuation modules.*
+*Current test suite: **119+ passed, 0 failures** across ETL, KPI, Screener, Peer, Valuation, NLP, and Reporting modules.*

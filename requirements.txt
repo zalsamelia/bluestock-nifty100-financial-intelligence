@@ -17,5 +17,6 @@ matplotlib
 seaborn
 plotly
 streamlit
+reportlab
 jupyter
 ipykernel
