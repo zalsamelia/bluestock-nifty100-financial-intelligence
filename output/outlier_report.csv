@@ -1,0 +1,4 @@
+company_id,company_name,sector,metric,metric_value,sector_mean,sector_std,z_score,outlier_type
+INDIGO,Interglobe Aviation Ltd,Consumer Discretionary,return_on_equity_pct,892.57,86.72,232.1,3.47,High Outlier
+ADANIGREEN,Adani Green Energy Ltd,Energy,debt_to_equity,6.6,1.46,1.63,3.14,High Outlier
+PNB,Punjab National Bank,Financials,return_on_equity_pct,61.32,18.87,12.74,3.33,High Outlier

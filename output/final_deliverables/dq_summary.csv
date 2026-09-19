@@ -1,0 +1,17 @@
+dq_id,rule_name,severity,finding_count,status
+DQ-01,Company PK Uniqueness,CRITICAL,0,PASS
+DQ-02,Annual PK Uniqueness,CRITICAL,0,PASS
+DQ-03,FK Integrity,CRITICAL,0,PASS
+DQ-04,Balance Sheet Balance,WARNING,0,PASS
+DQ-05,OPM Cross-Check,WARNING,216,REVIEW
+DQ-06,Positive Sales,WARNING,1,REVIEW
+DQ-07,Year Format,CRITICAL,0,PASS
+DQ-08,Ticker Format,CRITICAL,0,PASS
+DQ-09,Net Cash Check,WARNING,1,REVIEW
+DQ-10,Non-Negative Fixed Assets,WARNING,0,PASS
+DQ-11,Tax Rate Range,WARNING,90,REVIEW
+DQ-12,Dividend Payout Cap,WARNING,5,REVIEW
+DQ-13,URL Validity,WARNING,1405,REVIEW
+DQ-14,EPS Sign Consistency,WARNING,3,REVIEW
+DQ-15,BSE/ASE Balance External,INFO,0,NOT_RUN
+DQ-16,Coverage Check,WARNING,3,REVIEW

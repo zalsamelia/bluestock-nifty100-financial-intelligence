@@ -1,0 +1,110 @@
+company_id,company_name,sector,cluster_id,cluster_name,distance_from_centroid
+ABB,Abbott India Ltd,Industrials,1,High-Quality Compounders,0.381
+ADANIENSOL,Adani Energy Solutions Ltd,Energy,4,Turnaround & Restructuring Candidates,0.958
+ADANIENT,Adani Enterprises Ltd,Industrials,4,Turnaround & Restructuring Candidates,0.852
+ADANIGREEN,Adani Green Energy Ltd,Energy,4,Turnaround & Restructuring Candidates,3.522
+ADANIPORTS,"Adani Ports & Special Economic Zone Ltd
+",Industrials,3,Emerging Growth & Capital Expanders,1.084
+ADANIPOWER,Adani Power Ltd,Energy,4,Turnaround & Restructuring Candidates,1.301
+AMBUJACEM,Ambuja Cements Ltd,Materials,1,High-Quality Compounders,1.0
+APOLLOHOSP,"Apollo Hospitals
+Chain of Indian private hospitals",Healthcare,1,High-Quality Compounders,1.162
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",Materials,1,High-Quality Compounders,0.831
+ATGL,Adani Total Gas Ltd,Energy,4,Turnaround & Restructuring Candidates,0.583
+AXISBANK,Axis Bank Ltd,Financials,0,Value & Debt-Leveraged Cyclicals,0.767
+BAJAJ-AUTO,Bajaj Auto Ltd,Consumer Discretionary,1,High-Quality Compounders,0.344
+BAJAJFINSV,Bajaj Finserv Ltd,Financials,4,Turnaround & Restructuring Candidates,1.096
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,Financials,3,Emerging Growth & Capital Expanders,2.082
+BAJFINANCE,Bajaj Finance Ltd,Financials,4,Turnaround & Restructuring Candidates,0.783
+BANKBARODA,Bank of Baroda,Financials,0,Value & Debt-Leveraged Cyclicals,1.253
+BEL,Bharat Electronics Ltd,Industrials,1,High-Quality Compounders,7.238
+BHARTIARTL,Bharti Airtel Ltd,Communication Services,2,Defensive Cash Champions,1.288
+BHEL,"Bharat Heavy Electricals Limited
+",Industrials,1,High-Quality Compounders,2.74
+BOSCHLTD,Bosch Ltd,Consumer Discretionary,1,High-Quality Compounders,0.604
+BPCL,Bharat Petroleum Corporation Ltd,Energy,1,High-Quality Compounders,0.453
+BRITANNIA,Britannia Industries Ltd,Consumer Staples,1,High-Quality Compounders,0.224
+CANBK,Canara Bank,Financials,0,Value & Debt-Leveraged Cyclicals,2.161
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Financials,0,Value & Debt-Leveraged Cyclicals,1.341
+CIPLA,"Cipla Ltd
+",Healthcare,2,Defensive Cash Champions,0.558
+COALINDIA,Coal India Ltd,Materials,2,Defensive Cash Champions,0.858
+DABUR,Dabur India Ltd,Consumer Staples,1,High-Quality Compounders,0.377
+DIVISLAB,Divis Laboratories Ltd,Healthcare,1,High-Quality Compounders,0.474
+DLF,DLF Ltd,Real Estate,1,High-Quality Compounders,2.795
+DMART,Avenue Supermarts Ltd,Consumer Discretionary,4,Turnaround & Restructuring Candidates,1.033
+DRREDDY,Dr Reddys Laboratories Ltd,Healthcare,1,High-Quality Compounders,0.831
+EICHERMOT,Eicher Motors Ltd,Consumer Discretionary,1,High-Quality Compounders,0.557
+GAIL,GAIL (India) Ltd,Energy,1,High-Quality Compounders,0.699
+GODREJCP,Godrej Consumer Products Ltd,Consumer Staples,1,High-Quality Compounders,0.589
+GRASIM,Grasim Industries Ltd,Industrials,1,High-Quality Compounders,0.625
+HAL,Hindustan Aeronautics Ltd,Industrials,1,High-Quality Compounders,5.774
+HAVELLS,Havells India Ltd,Industrials,1,High-Quality Compounders,0.912
+HCLTECH,HCL Technologies Ltd,Information Technology,1,High-Quality Compounders,0.783
+HDFCBANK,HDFC Bank Ltd,Financials,0,Value & Debt-Leveraged Cyclicals,1.205
+HDFCLIFE,HDFC Life Insurance Company Ltd,Financials,3,Emerging Growth & Capital Expanders,0.572
+HEROMOTOCO,"Hero MotoCorp Ltd
+",Consumer Discretionary,2,Defensive Cash Champions,1.575
+HINDALCO,Hindalco Industries Ltd,Materials,2,Defensive Cash Champions,0.494
+HINDUNILVR,"Hindustan Unilever Ltd
+",Consumer Staples,2,Defensive Cash Champions,0.547
+ICICIBANK,ICICI Bank Ltd,Financials,0,Value & Debt-Leveraged Cyclicals,0.966
+ICICIGI,ICICI Lombard General Insurance Company Ltd,Financials,2,Defensive Cash Champions,0.849
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,Financials,3,Emerging Growth & Capital Expanders,1.035
+INDIGO,Interglobe Aviation Ltd,Consumer Discretionary,3,Emerging Growth & Capital Expanders,1.257
+INDUSINDBK,IndusInd Bank Ltd,Financials,0,Value & Debt-Leveraged Cyclicals,0.863
+INFY,Infosys Ltd,Information Technology,1,High-Quality Compounders,0.875
+IOC,"Indian Oil Corporation
+",Energy,1,High-Quality Compounders,0.494
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,Consumer Discretionary,4,Turnaround & Restructuring Candidates,1.103
+IRFC,Indian Railway Finance Corporation Ltd,Financials,0,Value & Debt-Leveraged Cyclicals,1.889
+ITC,"ITC Ltd
+",Consumer Staples,1,High-Quality Compounders,0.738
+JINDALSTEL,Jindal Steel & Power Ltd,Materials,1,High-Quality Compounders,1.496
+JIOFIN,Jio Financial Services Ltd,Financials,3,Emerging Growth & Capital Expanders,0.746
+JSWENERGY,JSW Energy Ltd,Energy,1,High-Quality Compounders,1.381
+JSWSTEEL,JSW Steel Ltd,Materials,1,High-Quality Compounders,1.333
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",Financials,2,Defensive Cash Champions,1.145
+LICI,Life Insurance Corporation of India,Financials,1,High-Quality Compounders,0.665
+LODHA,Macrotech Developers Ltd,Real Estate,1,High-Quality Compounders,2.316
+LT,Larsen & Toubro Ltd,Industrials,1,High-Quality Compounders,0.41
+LTIM,LTIMindtree Ltd,Information Technology,4,Turnaround & Restructuring Candidates,1.723
+M&M,"Mahindra & Mahindra Ltd
+",Consumer Discretionary,1,High-Quality Compounders,0.783
+MARUTI,Maruti Suzuki India Ltd,Consumer Discretionary,1,High-Quality Compounders,0.498
+MOTHERSON,Samvardhana Motherson International Ltd,Consumer Discretionary,1,High-Quality Compounders,0.479
+NAUKRI,Info Edge (India) Ltd,Communication Services,4,Turnaround & Restructuring Candidates,1.205
+NESTLEIND,Nestle India Ltd,Consumer Staples,1,High-Quality Compounders,1.098
+NHPC,"NHPC Ltd
+",Energy,1,High-Quality Compounders,1.868
+NTPC,NTPC Ltd,Energy,1,High-Quality Compounders,0.835
+ONGC,Oil & Natural Gas Corpn Ltd,Energy,1,High-Quality Compounders,0.48
+PFC,Power Finance Corporation Ltd,Financials,0,Value & Debt-Leveraged Cyclicals,1.317
+PIDILITIND,Pidilite Industries Ltd,Materials,1,High-Quality Compounders,0.635
+PNB,Punjab National Bank,Financials,4,Turnaround & Restructuring Candidates,1.455
+POWERGRID,Power Grid Corporation of India Ltd,Energy,2,Defensive Cash Champions,0.856
+RECLTD,REC Ltd,Financials,2,Defensive Cash Champions,2.008
+RELIANCE,"Reliance Industries Ltd
+",Energy,1,High-Quality Compounders,0.314
+SBILIFE,SBI Life Insurance Company Ltd,Financials,4,Turnaround & Restructuring Candidates,1.266
+SBIN,State Bank of India,Financials,1,High-Quality Compounders,1.367
+SHREECEM,Shree Cement Ltd,Materials,1,High-Quality Compounders,0.421
+SHRIRAMFIN,"Shriram Finance Ltd
+",Financials,4,Turnaround & Restructuring Candidates,1.021
+SIEMENS,Siemens Ltd,Industrials,1,High-Quality Compounders,0.571
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,Healthcare,1,High-Quality Compounders,0.538
+TATACONSUM,Tata Consumer Products Ltd,Consumer Staples,1,High-Quality Compounders,1.39
+TATAMOTORS,Tata Motors Ltd,Consumer Discretionary,1,High-Quality Compounders,0.491
+TATAPOWER,"Tata Power Company Ltd
+",Energy,1,High-Quality Compounders,1.355
+TATASTEEL,"Tata Steel Ltd
+",Materials,1,High-Quality Compounders,0.557
+TCS,Tata Consultancy Services Ltd,Information Technology,1,High-Quality Compounders,0.465
+TECHM,Tech Mahindra Ltd,Information Technology,1,High-Quality Compounders,0.527
+TITAN,"Titan Company Ltd
+",Consumer Discretionary,4,Turnaround & Restructuring Candidates,0.683
+TORNTPHARM,Torrent Pharmaceuticals Ltd,Healthcare,1,High-Quality Compounders,0.645
+TRENT,Trent Ltd,Consumer Discretionary,4,Turnaround & Restructuring Candidates,2.799
+TVSMOTOR,TVS Motor Company Ltd,Consumer Discretionary,1,High-Quality Compounders,1.58

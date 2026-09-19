@@ -18,5 +18,8 @@ seaborn
 plotly
 streamlit
 reportlab
+fastapi
+uvicorn
+pytest-html
 jupyter
 ipykernel
